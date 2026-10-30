@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:30/10/2026
+## Reference Number:26018983
+## Name:Bharath D
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,44 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+- Develop a smart digital platform connecting farmers, FPOs, consumers, retailers, and bulk buyers directly.
+- Introduce a Live Auction System where multiple buyers can bid for farmers' products.
+- Use QR codes to provide product origin, quality, and price transparency.
+- Enable group purchasing to reduce transportation costs.
+- Introduce AI-based fair price recommendations to prevent farmers from selling below market value.
+- Provide direct communication between farmers and buyers.
+Unique Feature: A transparent bidding system that allows farmers to choose the highest suitable offer instead of depending on intermediaries.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Frontend: React.js for the web application and Flutter for the mobile application.
+Backend: Python with FastAPI.
+Database: Firebase / MongoDB.
+AI/ML: Demand forecasting and smart price prediction.
+Maps: Google Maps API for route optimization.
+Blockchain: Product traceability and transparent transaction records.
+QR Code: Product identification and farm-to-consumer tracking.
+
+<img width="1224" height="1285" alt="image" src="https://github.com/user-attachments/assets/9229c324-2940-4077-a689-56a30a1082aa" />
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility: Can be developed using existing web, mobile, AI, and cloud technologies.
+Low Investment: Start with a small group of farmers and local buyers.
+Challenges: Internet connectivity, farmer awareness, product quality, and delivery management.
+Solutions: Regional language support, voice-based ordering, offline listing, and partnerships with local transport providers.
+Viability: Generate revenue through a small transparent transaction fee and optional logistics services.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Farmers: Higher earnings through direct sales and competitive bidding.
+Consumers: Fresh agricultural products at affordable prices.
+Environment: Reduced food waste and optimized delivery routes.
+Economy: Supports rural businesses and local agricultural markets.
+Transparency: QR-based tracking builds trust between farmers and consumers.
+Social Impact: Empowers small farmers and promotes digital agriculture.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+e-NAM: National Agriculture Market – Digital agricultural trading.
+Agmarknet: Agricultural Market Information – Agricultural market price information.
+APEDA: Agricultural and Processed Food Products Export Development Authority – Agricultural supply chain information.
+FAO: Food and Agriculture Organization – Food supply chain and food loss research.
+ONDC: Open Network for Digital Commerce – Open digital commerce infrastructure.
